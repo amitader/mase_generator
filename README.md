@@ -1,3 +1,4 @@
+![maze](https://github.com/user-attachments/assets/23de07ff-251a-4399-a0ee-a3b1ea196100)
 # Maze Generator and Solver
 
 A Python application that visually generates and solves a maze using recursive backtracking and depth-first search (DFS). The maze is rendered using the Tkinter GUI library.
